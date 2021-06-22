@@ -1,0 +1,100 @@
+/* Large Devices (Desktops & Laptops) */
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+    /* Navigation */
+
+    #home-heading-2{
+        font-size: 0.5rem;
+    }
+
+
+
+}
+
+/* Medium Devices (Landscape Tablets & Medium Desktops) */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* Navigation */
+    #container-fluid{
+        font-size: 0.5em;
+    }
+
+    #video1{
+        margin-left: 50px;
+    }
+}
+
+
+    /*Ipad*/
+
+
+
+/*tablet*/
+
+
+@media (min-width: 768px){
+
+#about-info{
+    align-items: center;
+}
+
+#Me{
+    margin-top: -190px;
+    margin-left: 50px;
+}
+
+}
+
+
+@media (max-width: 376px){
+
+.container{
+    margin-left: 130px;
+}
+
+.navbar{
+    width: 180%;
+}
+
+#logo{
+     margin-left: 150px;
+    }
+
+
+#home-heading-2{
+     margin-left: 250px;
+}
+
+#ik{
+    margin-left: 165px;
+}
+
+#Me{
+    margin-top: 20px;
+    margin-left: -30px ;
+}
+
+#profile{
+    margin-right: 50px;
+}
+
+.text{
+    margin-left: 250px;
+}
+
+.Typo{
+    display: flex;
+    justify-content: center;
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+}
+
+#Contact1{
+    display: flex;
+    justify-content: center;
+}
+
+}
